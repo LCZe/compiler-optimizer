@@ -22,6 +22,26 @@ compiler-optimizer/
 - 返回优化前后运行时间与评分对比
 - 支持导出调优结果与查看历史记录
 
+## 界面展示
+
+本项目仅完成功能导航中的第一个部分
+
+![1745572306707](C:\Users\11693\AppData\Roaming\Typora\typora-user-images\1745572306707.png)
+
+主要功能分为三部分：文件上传、参数选择和结果调优
+
+1.文件上传
+
+![1745572495471](C:\Users\11693\AppData\Roaming\Typora\typora-user-images\1745572495471.png)
+
+2.参数调优
+
+![1745572538983](C:\Users\11693\AppData\Roaming\Typora\typora-user-images\1745572538983.png)
+
+3.结果展示
+
+![1745572562511](C:\Users\11693\AppData\Roaming\Typora\typora-user-images\1745572562511.png)
+
 ## 技术栈
 
 - 前端：Vue 3, Composition API, Vite
@@ -48,12 +68,11 @@ npm run dev
 
 ## 接口文档
 
-后端接口文档详见 `/docs/api-documentation.md`，支持导入 Swagger / Apifox。
+后端接口文档详见 `/接口api.md`，支持导入 Swagger / Apifox。
 
 ## 项目作者
 
-Legend Co., Ltd.  
-维护人：@yourname
+维护人：@L_c_ze@163.com
 
 ## License
 
