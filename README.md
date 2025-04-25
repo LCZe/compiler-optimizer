@@ -26,21 +26,21 @@ compiler-optimizer/
 
 本项目仅完成功能导航中的第一个部分
 
-![1745572306707](C:\Users\11693\AppData\Roaming\Typora\typora-user-images\1745572306707.png)
+![1745572306707](.\images\show.png)
 
 主要功能分为三部分：文件上传、参数选择和结果调优
 
 1.文件上传
 
-![1745572495471](C:\Users\11693\AppData\Roaming\Typora\typora-user-images\1745572495471.png)
+![1745572495471](.\images\upload.png)
 
 2.参数调优
 
-![1745572538983](C:\Users\11693\AppData\Roaming\Typora\typora-user-images\1745572538983.png)
+![1745572538983](.\images\option.png)
 
 3.结果展示
 
-![1745572562511](C:\Users\11693\AppData\Roaming\Typora\typora-user-images\1745572562511.png)
+![1745572562511](.\images\result.png)
 
 ## 技术栈
 
